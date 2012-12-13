@@ -1,0 +1,6 @@
+int main()
+{
+	system("/bin/ls");
+	printf("This is another ls!\n");
+	return 0;
+}
